@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Voice Sampler",
+  "description": "A web application to sample different prebuilt voices and voice configurations available in the Gemini API using text-to-speech. Enter a phrase, select a voice, adjust pitch and speaking rate, and hear the result.",
+  "requestFramePermissions": []
+}
